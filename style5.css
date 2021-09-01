@@ -1,0 +1,345 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+.container{
+    width: 100%;   
+    text-align: center;
+    
+}
+
+.row4{
+    display: flex;
+    width: 100%;
+    height: 100px;  
+    background-color: #000000;
+    margin: auto;
+   
+}
+
+.row4col1{
+    display: flex;
+    width: 75%;
+    height: 100px;  
+    background-color: #000000;
+    margin: auto;
+}
+
+
+
+.row4 h1{
+   
+    font-size: 24pt;
+    color: #ffffff;  
+    margin-left: 48px;
+    text-decoration: none;
+    margin-right: 50%;
+  }
+
+  
+.row4col1 ul
+{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.row4col1 li{
+    width: 10%;
+    height: 100%;
+    display: inline;  
+    float: right;
+    padding-left: 36px;
+
+}
+
+.row4col1 li a{
+    font-size: 24pt;
+    color: #ffffff;  
+
+    text-decoration: none;
+}
+
+.row4col1 li a{
+    font-size: 24pt;
+    color: #ffffff;  
+
+    text-decoration: none;
+}
+
+.row5{
+    width: 100%;
+    height: 360px;
+    margin: auto;
+    background-color: #000000;
+}
+
+.row5 h1{    
+    font-size: 48pt;
+    color: #ffffff;
+    line-height: 160px;
+}
+
+.row5 h2{
+    font-size: 24pt;
+    color: #ffffff;
+    line-height: 0px;
+    
+}
+
+.gap7{
+  width: 100%;
+  height: 200px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+}
+
+.row6{
+    display: flex;
+    width: 75%;
+    height: 280px;
+    margin: auto;
+}
+
+.row6col1{
+  
+    width: 33.3%;
+    height: 100%;
+
+
+}
+
+.row6col2{
+
+    width: 33.3%;
+    height: 100%; 
+
+
+}
+
+
+.row6col3{
+
+    width: 33.3%;
+    height: 100%;
+
+  
+}
+
+.gap3{  
+    width: 75%;
+    height: 280px;
+    margin: auto;
+
+  }
+
+  .row18{  
+    position: absolute;
+    width: 100%;
+    height: 560px;
+    margin: auto;
+    background-color: #1f1f1f;
+    z-index: -1;
+    margin: auto;
+  
+  }
+
+  .row19{  
+    display: flex;
+    width: 75%;
+    height: 520px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+  
+  
+  }
+  
+  .row19col1{  
+    width: 40%;
+    height: 100%;
+  }
+  
+  .row19col1 h1{  
+    color: white;
+  }
+  
+  .row19col1 h2{  
+    color: rgb(148, 148, 148);
+  }
+  
+  .row19col2{  
+    width: 20%;
+    height: 100%;
+    margin-left: 200px;
+  }
+  
+  .row19col2 h1{  
+    color: white;
+  }
+  
+  .row19col2 h2{  
+    color: rgb(136, 136, 136);
+  }
+  
+  
+  .row19col3{  
+    width: 15%;
+    height: 100%;
+    margin-left: 36px;
+  }
+  
+  .row19col3 h1{  
+    color: white;
+  }
+  
+  .row19col3 h2{  
+    color: rgb(136, 136, 136);
+  }
+  
+  .row19col4{  
+    width: 15%;
+    height: 100%;
+    margin-left: 36px;
+  }
+  
+  .row19col4 h1{  
+    color: white;
+  }
+  
+  .row19col4 h2{  
+    color: rgb(133, 133, 133);
+  }
+
+  .row7{
+    width: 75%;
+    height: 200px;
+    margin: auto;
+    text-align: left;
+    line-height: 48px;
+    
+  }
+
+  .row8{
+    display: flex;
+    width: 75%;
+    height: 400px;
+    margin: auto;
+
+  }
+
+  .row8col1{
+    width: 50%;
+    height: 100%;
+
+    text-align: left;
+  }
+
+.row8row1{
+  display: flex;
+  width: 100%;
+  height: 60%;
+
+  }
+
+.row8row2form{
+  
+  width: 100%;
+  height: 40%;
+
+  }
+
+  .row8row1col1form{
+  
+    width: 50%;
+    height: 100%;
+
+  }
+
+  .row8row1col2form{
+  width: 50%;
+  height: 100%;
+
+  }
+
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 18px 0;
+   
+  
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+  }
+
+  input[type=text], select, textarea {
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    float: left;
+    
+  }
+  
+  input[type=submit] {
+    background-color: #36ca80;
+    color: white;
+    padding: 12px 56px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    float: left;
+    font-size: 14pt;
+  }
+
+  /* Set the size of the div element that contains the map */
+#map {
+  height: 100%;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+.row8col2{
+  width: 50%;
+  height: 100%;
+
+  text-align: left;
+}
+
+.row6col1row1{
+  width: 10%;
+  height: 40%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+}
+
+.row6col2row1{
+  width: 10%;
+  height: 40%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+}
+
+.row6col3row1{
+  width: 10%;
+  height: 40%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+}

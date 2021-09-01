@@ -1,0 +1,810 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+.container{
+    width: 100%;   
+    text-align: center;
+    
+}
+
+.row4{
+    display: flex;
+    width: 100%;
+    height: 100px;  
+    background-color: #000000;
+    margin: auto;
+   
+}
+
+.row4col1{
+    display: flex;
+    width: 75%;
+    height: 100px;  
+    background-color: #000000;
+    margin: auto;
+}
+
+
+
+.row4 h1{
+   
+    font-size: 24pt;
+    color: #ffffff;  
+    margin-left: 48px;
+    text-decoration: none;
+    margin-right: 50%;
+  }
+
+  
+.row4col1 ul
+{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.row4col1 li{
+    width: 10%;
+    height: 100%;
+    display: inline;  
+    float: right;
+    padding-left: 36px;
+
+}
+
+.row4col1 li a{
+    font-size: 24pt;
+    color: #ffffff;  
+
+    text-decoration: none;
+}
+
+.row4col1 li a{
+    font-size: 24pt;
+    color: #ffffff;  
+
+    text-decoration: none;
+}
+
+.row5{
+    width: 100%;
+    height: 360px;
+    margin: auto;
+    background-color: #000000;
+}
+
+.row5 h1{    
+    font-size: 48pt;
+    color: #ffffff;
+    line-height: 160px;
+}
+
+.row5 h2{
+    font-size: 24pt;
+    color: #ffffff;
+    line-height: 0px;
+    
+}
+
+.gap7{
+  width: 100%;
+  height: 200px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+.row6{
+    display: flex;
+    width: 75%;
+    height: 150px;
+    margin: auto;
+
+}
+
+.row6col1{
+  display: flex;  
+  width: 33.3%;
+  height: 100%;
+
+}
+
+.row6col1col1{
+  width: 20%;
+  height: 60%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row6col1col2{
+  width: 80%;
+  height: 100%;
+  text-align: left;
+}
+
+
+
+.row6col2{
+  display: flex; 
+  width: 33.3%;
+  height: 100%;
+
+}
+
+.row6col2col1{
+  width: 20%;
+  height: 60%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row6col2col2{
+  width: 80%;
+  height: 100%;
+  text-align: left;
+}
+
+
+.row6col3{
+  display: flex; 
+  width: 33.3%;
+  height: 100%;
+
+}
+
+.row6col3col1{
+  width: 20%;
+  height: 60%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row6col3col2{
+  width: 80%;
+  height: 100%;
+  text-align: left;
+}
+
+
+/* row 7*/
+
+.row7{
+  display: flex;
+  width: 75%;
+  height: 150px;
+  margin: auto;
+
+}
+
+.row7col1{
+display: flex;  
+width: 33.3%;
+height: 100%;
+
+}
+
+.row7col1col1{
+  width: 20%;
+  height: 60%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row7col1col2{
+width: 80%;
+height: 100%;
+text-align: left;
+}
+
+.row7col2{
+display: flex; 
+width: 33.3%;
+height: 100%;
+
+}
+
+.row7col2col1{
+  width: 20%;
+  height: 60%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row7col2col2{
+width: 80%;
+height: 100%;
+text-align: left;
+}
+
+
+.row7col3{
+  display: flex; 
+  width: 33.3%;
+  height: 100%;
+
+}
+
+.row7col3col1{
+  width: 20%;
+  height: 60%;
+  background-image: url("Vector28.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.row7col3col2{
+  width: 80%;
+  height: 100%;
+  text-align: left;
+}
+
+
+
+
+
+.row11{
+    display: flex;
+    width: 75%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+  
+  }
+  
+  .row11col1{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+  
+  .row11col2{
+    width: 33.3%;
+    height: 100%;
+  }
+  
+  .row11col3{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+  
+  .row11col1row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row11col1row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+  
+  
+  
+  .row11col2row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row11col2row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+  
+  
+  
+  .row11col3row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row11col3row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+
+  /* row 20*/
+
+  .row20{
+    display: flex;
+    width: 75%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+  
+  }
+  
+  .row20col1{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+  
+  .row20col2{
+    width: 33.3%;
+    height: 100%;
+  }
+  
+  .row20col3{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+  
+  .row20col1row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row20col1row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+  
+  
+  
+  .row20col2row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row20col2row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+  
+  
+  
+  .row20col3row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row20col3row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+
+  /* row 21*/
+
+  .row21{
+    display: flex;
+    width: 75%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+  
+  }
+  
+  .row21col1{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+  
+  .row21col2{
+    width: 33.3%;
+    height: 100%;
+  }
+  
+  .row21col3{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+  
+  .row21col1row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row21col1row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+  
+  
+  
+  .row21col2row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row21col2row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+  
+  
+  
+  .row21col3row1{
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row21col3row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 36px;
+  
+  }
+
+
+  .row10{
+    width: 75%;
+    height: 140px;
+    margin: auto;
+    text-align: center;
+    padding: 150px;
+  }
+
+  .row22{
+    width: 75%;
+    height: 140px;
+    margin: auto;
+    text-align: center;
+    padding: 150px;
+  }
+
+  .gap2{
+    width: 75%;
+    height: 200px;
+    margin: auto;
+  }
+  
+  
+  .row12{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    z-index: -1;
+  }
+  
+  .row13{
+    display: flex;
+    width: 60%;
+    height: 350px;
+    margin: auto;
+    text-align: left;
+  
+  }
+  
+  .row13 h1{
+    width: 50%;
+    height: 65%;
+    padding-top: 100px;
+    padding-left: 50px;
+    color: white;
+  
+  
+   
+  }
+  
+  .row13 h2{
+    width: 50%;
+    height: 65%;
+    padding-top: 100px;
+    padding-left: 50px;
+    color: rgb(150, 150, 150);
+  
+  }
+  
+  .row14{
+    display: flex;
+    width: 75%;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .row14 h3{
+    padding-top: 30px;
+  }
+  
+  .row14col1{
+    width: 33.3%;
+    height: 100%;
+  
+  
+  
+  }
+  
+  .row14col2{
+    width: 33.3%;
+    height: 100%;
+    
+  }
+  
+  
+  .row14col3{
+    width: 33.3%;
+    height: 100%;
+  
+  }
+
+  .gap4{
+    width: 75%;
+    height: 240px;
+    margin: auto;
+  }
+
+  .rowpic{
+    display: flex;
+    width: 75%;
+    height: 640px;
+    margin: auto;
+  }
+ 
+
+  .rowpiccol1{
+    width: 50%;
+    height: 420px;
+    background-image: url("cabacera-clients.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+  }
+
+  .rowpiccol2{
+    width: 50%;
+    height: 400px;
+
+  }
+
+  .rowpic2{
+    width: 30%;
+    height: 300px;
+    position: absolute;
+    top: 2550px;
+    left: 45%;
+    background-color: #f1f3f5;
+    border: solid;
+    border-width: 10px;
+    border-color: #ffffff;
+    z-index: 2;
+    box-shadow: 0px 36px 36px 20px rgba(156, 156, 156, 0.25);
+    text-align: left;
+  }
+
+  .rowpic2::after{
+    contain: "";
+  }
+
+  .rowpic2 h1{
+    padding-top: 64px;
+    padding-left: 56px;
+    font-size: 24pt;
+  }
+
+  .rowpic2 h2{  
+    padding-left: 56px;
+    font-size: 18pt;
+  }
+
+  .row15{
+    display: flex;
+    width: 75%;
+    height: 200px;
+    margin: auto;
+    text-align: left;
+    padding-top: 180px;
+  
+  }
+  
+  .row15 h1{
+    width: 33.3%;
+    height: 100%;
+    padding-left: 50px;
+    padding-top: 36px;
+    
+  }
+  
+  
+  .row15col1{
+    width: 33.3%;
+    height: 100%;
+  }
+  
+  
+  .row15col2{
+    width: 33.3%;
+    height: 100%;
+  
+  
+  }
+  
+  .row15col1row1{
+    display: flex;
+    width: 100%;
+    height: 50%;
+  
+  }
+  
+  .row15col1row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 24px;
+    
+  
+  }
+  
+  .row15col1row1 h2{
+    width: 80%;
+    height: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+  
+  }
+  
+  .row15col1row1col1{
+    width: 23%;
+    height: 100%;
+    background-color: rgb(255, 243, 71);
+    border-radius: 100%;
+    background-image: url("Untitled-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+  
+  .row15col2row1{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    
+  
+  
+  }
+  
+  .row15col2row2{
+    width: 100%;
+    height: 50%;
+    padding-top: 24px;
+  }
+  
+  .row15col2row1 h2{
+    width: 80%;
+    height: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+  
+  
+  }
+  
+  .row15col2row1col1{
+    width: 23%;
+    height: 100%;
+    background-color: rgb(255, 243, 71);
+    border-radius: 100%;
+    background-image: url("Untitled-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+
+  .gap3{  
+    width: 75%;
+    height: 280px;
+    margin: auto;
+
+  }
+
+  .row18{  
+    position: absolute;
+    width: 100%;
+    height: 560px;
+    margin: auto;
+    background-color: #1f1f1f;
+    z-index: -1;
+  
+  }
+
+  .row19{  
+    display: flex;
+    width: 75%;
+    height: 520px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+  
+  
+  }
+  
+  .row19col1{  
+    width: 40%;
+    height: 100%;
+  }
+  
+  .row19col1 h1{  
+    color: white;
+  }
+  
+  .row19col1 h2{  
+    color: rgb(148, 148, 148);
+  }
+  
+  .row19col2{  
+    width: 20%;
+    height: 100%;
+    margin-left: 200px;
+  }
+  
+  .row19col2 h1{  
+    color: white;
+  }
+  
+  .row19col2 h2{  
+    color: rgb(136, 136, 136);
+  }
+  
+  
+  .row19col3{  
+    width: 15%;
+    height: 100%;
+    margin-left: 36px;
+  }
+  
+  .row19col3 h1{  
+    color: white;
+  }
+  
+  .row19col3 h2{  
+    color: rgb(136, 136, 136);
+  }
+  
+  .row19col4{  
+    width: 15%;
+    height: 100%;
+    margin-left: 36px;
+  }
+  
+  .row19col4 h1{  
+    color: white;
+  }
+  
+  .row19col4 h2{  
+    color: rgb(133, 133, 133);
+  }
